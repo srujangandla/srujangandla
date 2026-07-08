@@ -15,7 +15,7 @@ Artificial Intelligence & Data Science Undergraduate
 <p align="center">
 <b>Data Analytics</b> •
 <b>Machine Learning</b> •
-<b>FullStack Devolpment</b>b> •
+<b>FullStack Development</b> •
 <b>Business Intelligence</b> •
 <b>Data Visualization</b> •
 <b>Problem Solving</b> 
@@ -36,13 +36,30 @@ My interests include PostgreSQL, SQL Analytics, Power BI, Data Visualization, an
 - 📊 Data Analytics
 - 📈 Business Intelligence
 - 🤖 Machine Learning
-- 🌐 Full-Stack Web Development
 - 🗄 Database Design
-- 📱 Building Real-World Applications
+- 🌐 Full-Stack Web Development
 
 ---
 
 # Featured Projects
+
+### 🧠 Cognitive Focus Classification
+
+A machine learning project that predicts users' cognitive focus levels using productivity and behavioral data.
+
+**Highlights**
+
+- Feature Engineering
+- Data Preprocessing
+- Model Comparison
+- Performance Evaluation
+- Personalized Recommendations
+
+**Tech Stack**
+
+Python • Pandas • Scikit-Learn • NumPy
+
+---
 
 ### 🚖 BunkRide
 
