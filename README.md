@@ -4,9 +4,7 @@
 Artificial Intelligence & Data Science Undergraduate
 </p>
 
-<p align="center">
-Data Analytics • Machine Learning • Full-Stack Development
-</p>
+
 
 <p align="center">
 📍 Hyderabad, India &nbsp;•&nbsp;
@@ -16,8 +14,9 @@ Data Analytics • Machine Learning • Full-Stack Development
 
 <p align="center">
 <b>Data Analytics</b> •
-<b>Business Intelligence</b> •
 <b>Machine Learning</b> •
+<b>FullStack Devolpment</b>b> •
+<b>Business Intelligence</b> •
 <b>Data Visualization</b> •
 <b>Problem Solving</b> 
 </p>
@@ -27,11 +26,8 @@ Data Analytics • Machine Learning • Full-Stack Development
 
 ## About Me
 
-I'm an AI & Data Science undergraduate who enjoys building software that combines clean engineering with data-driven decision making.
-
-I like working across the complete development cycle—from designing databases and developing backend APIs to creating responsive user interfaces and applying machine learning to solve practical problems.
-
-Currently I'm expanding my skills in PostgreSQL, data analytics, React, Node.js, and machine learning while building projects that strengthen both my software engineering and analytical thinking.
+I'm an AI & Data Science undergraduate passionate about data analytics and transforming raw data into meaningful business insights.
+My interests include PostgreSQL, SQL Analytics, Power BI, Data Visualization, and Machine Learning. I enjoy designing databases, analyzing datasets, creating interactive dashboards, and building data-driven applications that solve real-world problems.
 
 ---
 
