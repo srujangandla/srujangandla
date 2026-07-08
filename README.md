@@ -11,8 +11,17 @@ Data Analytics • Machine Learning • Full-Stack Development
 <p align="center">
 📍 Hyderabad, India &nbsp;•&nbsp;
 🎓 B.E. AI & Data Science @ CBIT &nbsp;•&nbsp;
-🚀 Open to 2026 Internship Opportunities
+🚀 Open to Internship Opportunities
 </p>
+
+<p align="center">
+<b>Data Analytics</b> •
+<b>Business Intelligence</b> •
+<b>Machine Learning</b> •
+<b>Data Visualization</b> •
+<b>Problem Solving</b> 
+</p>
+
 
 ---
 
@@ -119,19 +128,6 @@ JavaScript • HTML • CSS
 | **Data Visualization** | Matplotlib • Seaborn |
 | **Authentication & APIs** | JWT • Google Maps API |
 | **Developer Tools** | Git • GitHub • VS Code • Jupyter Notebook • Postman |
-
-## GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=srujangandla&show_icons=true&theme=github_dark" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srujangandla&layout=compact&theme=github_dark" height="170"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=srujangandla&theme=github-dark"/>
-</p>
-
----
 
 ## Let's Connect
 
