@@ -105,79 +105,57 @@ JavaScript • HTML • CSS
 
 ---
 
-# Technical Skills
+# 🛠 Technical Skills
 
-### Languages
-
-- Python
-- JavaScript
-- C++
-- SQL
-
-### Frontend
-
-- HTML
-- CSS
-- React
-- Bootstrap
-
-### Backend
-
-- Node.js
-- Express.js
-
-### Database
-
-- PostgreSQL
-- MySQL
-
-### Data & AI
-
-- Pandas
-- NumPy
-- Scikit-Learn
-- Power BI
-- Tableau
-
-### Tools
-
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
-- Postman
-
----
-
-## Currently Learning
-
-- Advanced PostgreSQL
-- Data Engineering Fundamentals
-- Backend Development
-- Machine Learning
-- React Ecosystem
-
----
+| Domain | Technologies |
+|---------|--------------|
+| **Programming** | Python • C++ • SQL |
+| **Frontend Development** | HTML5 • CSS3 • React • Bootstrap |
+| **Backend Development** | Node.js • Express.js • REST APIs • Socket.IO |
+| **Database** | PostgreSQL • MySQL • Database Design |
+| **Data Analytics** | Pandas • NumPy • Microsoft Excel |
+| **Business Intelligence** | Power BI • Tableau |
+| **Machine Learning** | Scikit-learn • Feature Engineering • Model Evaluation |
+| **Data Visualization** | Matplotlib • Seaborn |
+| **Authentication & APIs** | JWT • Google Maps API |
+| **Developer Tools** | Git • GitHub • VS Code • Jupyter Notebook • Postman |
 
 ## GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=srujangandla&show_icons=true&theme=github_dark" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srujangandla&layout=compact&theme=github_dark" height="170"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark"/>
+<img src="https://streak-stats.demolab.com?user=srujangandla&theme=github-dark"/>
 </p>
 
 ---
 
 ## Let's Connect
 
-- LinkedIn
-- Email
-- Portfolio (Coming Soon)
+## 🤝 Connect With Me
 
+<p align="center">
+
+<a href="[https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAM](https://www.linkedin.com/in/srujangandla2504/)E" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:srujangandla4@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/srujangandla" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/srujangandla2504/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</p>
 ---
 
 <p align="center">
