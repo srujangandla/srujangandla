@@ -80,24 +80,6 @@ React • Node.js • Express • Socket.IO • JWT • Google Maps API
 
 ---
 
-### 🧠 Cognitive Focus Classification
-
-A machine learning project that predicts users' cognitive focus levels using productivity and behavioral data.
-
-**Highlights**
-
-- Feature Engineering
-- Data Preprocessing
-- Model Comparison
-- Performance Evaluation
-- Personalized Recommendations
-
-**Tech Stack**
-
-Python • Pandas • Scikit-Learn • NumPy
-
----
-
 ### 📂 File Metadata Extractor
 
 A lightweight web application that extracts useful metadata from uploaded files.
